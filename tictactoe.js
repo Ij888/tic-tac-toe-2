@@ -1,7 +1,5 @@
 $(document).ready(function() {
 
-	
-
 	/* *******************
 		SETUP VARIABLES 
 	******************* */
@@ -259,9 +257,6 @@ $(document).ready(function() {
 		} // end loop
 
 	}
-
-
-
 	
 
 	/* *******************
@@ -288,13 +283,5 @@ $(document).ready(function() {
 		
 
 	})
-
-
-	
-		
-
-
-
-
 
 })
